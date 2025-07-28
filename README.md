@@ -22,23 +22,19 @@ Detect suspicious patterns such as brute-force attacks and scanning in SSH and A
 
 ## Folder Structure
 - log_analyzer_project.zip
-  1.logs
-  2.report_ooutput
-  3.analyzer.py
-  4.Figure_1.png
-  
-  Output
+
+## Output
   CSV report with suspicious IPs
   PNG chart of top attackers
 
 ---
 
-### ✅ 2. `secure-file-storage
+### 2. `secure-file-storage
 
-## 📌 Objective
+## Objective
 Encrypt and decrypt sensitive files using AES symmetric encryption.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python 3
 - `cryptography` library
 - Hash validation (SHA256)
