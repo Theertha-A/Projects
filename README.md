@@ -22,10 +22,11 @@ Detect suspicious patterns such as brute-force attacks and scanning in SSH and A
 
 ## Folder Structure
 - log_analyzer_project.zip
-          -logs
-          -report_output
-          -analyzer.py
-          -Figure_1.png
+  1.logs
+  2.report_ooutput
+  3.analyzer.py
+  4.Figure_1.png
+  
   Output
   CSV report with suspicious IPs
   PNG chart of top attackers
