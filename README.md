@@ -24,8 +24,8 @@ Detect suspicious patterns such as brute-force attacks and scanning in SSH and A
 - log_analyzer_project.zip
 
 ## Output
-  CSV report with suspicious IPs
-  PNG chart of top attackers
+  - CSV report with suspicious IPs
+  - PNG chart of top attackers
 
 ---
 
